@@ -1,0 +1,7 @@
+insat_first:
+    resource: "@InsatFirstBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

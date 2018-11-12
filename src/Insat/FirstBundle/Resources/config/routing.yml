@@ -1,0 +1,3 @@
+insat_first_homepage:
+    path:     /first
+    defaults: { _controller: InsatFirstBundle:Default:index }
